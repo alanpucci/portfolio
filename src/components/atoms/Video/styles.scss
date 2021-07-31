@@ -1,0 +1,10 @@
+.video{
+    object-fit: cover;
+    top:0;
+    left:0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 2;
+    background: linear-gradient(#000000, rgba(19, 19, 19, 0));
+}
